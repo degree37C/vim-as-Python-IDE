@@ -19,7 +19,7 @@
 
 ![运行脚本](https://github.com/degree37C/vim-as-Python-IDE/blob/master/screenshots/vim%20python2.png)
 
-
+=====================
 
 
 # 按键操作
