@@ -13,8 +13,8 @@
 
 下面是两个基本效果图：
 
-![自动补齐](./screenshots/vim python1.png)
+![自动补齐](https://github.com/degree37C/vim-as-Python-IDE/blob/master/screenshots/vim%20python1.png)
 
 
 
-![运行脚本](./screenshots/vim python2.png)
+![运行脚本](https://github.com/degree37C/vim-as-Python-IDE/blob/master/screenshots/vim%20python2.png)
