@@ -5,6 +5,22 @@
  * 语法着色
  * 自动补全
 
+# 插件说明
+* **jedi-vim** Python自动补全
+
+* **nerdtree** 显示文件列表
+
+* **tagbar** 显示文件结构
+
+* **vim-monokai** monokai主题
+
+* **change-colorscheme** 快速切换主题
+
+* **vim-airline** airline 
+
+* **vim-airline-themes** airline主题
+
+* **rainbow_parentheses.vim** 彩虹括号
 
 
 # 安装方法
