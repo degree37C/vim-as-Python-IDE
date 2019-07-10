@@ -1,6 +1,6 @@
 #!/bin/bash
 
-top_dir=$pwd)
+top_dir=$(pwd)
 
 apt-get remove vim vim-runtime
 
